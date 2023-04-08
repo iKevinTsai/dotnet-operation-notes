@@ -1,2 +1,6 @@
 # dotnet-operation-notes
-dotnet操作筆記
+```Bash
+#新增解決方案
+dotnet new sln --name 解決方案名稱
+#dotnet sln 解決方案名稱.sln add .\專案\專案.csproj
+```
