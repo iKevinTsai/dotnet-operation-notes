@@ -8,5 +8,7 @@ dotnet sln 解決方案名稱.sln add .\專案\專案.csproj
 dotnet new gitignore
 #檔案監看員(偵測到變更會reload)
 dotnet watch --project ./專案
+#清除專案(obj & bin)
+dotnet clean
 ```
 
