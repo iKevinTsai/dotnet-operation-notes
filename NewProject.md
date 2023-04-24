@@ -1,4 +1,4 @@
 ```Bash
-dotnet new -l
+dotnet new list
 dotnet new mvc -o eapply.web
 ```
